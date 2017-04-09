@@ -118,7 +118,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/mako/proprietary/lib/libmorpho_noise_reduction.so:system/lib/libmorpho_noise_reduction.so \
     vendor/lge/mako/proprietary/lib/libnetmgr.so:system/lib/libnetmgr.so \
     vendor/lge/mako/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
-    vendor/lge/mako/proprietary/lib/liboemcrypto.so:system/lib/liboemcrypto.so \
     vendor/lge/mako/proprietary/lib/libqcci_legacy.so:system/lib/libqcci_legacy.so \
     vendor/lge/mako/proprietary/lib/libqdi.so:system/lib/libqdi.so \
     vendor/lge/mako/proprietary/lib/libqdp.so:system/lib/libqdp.so \
@@ -172,7 +171,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/mako/proprietary/vendor/firmware/wcnss.b04:system/vendor/firmware/wcnss.b04 \
     vendor/lge/mako/proprietary/vendor/firmware/wcnss.b05:system/vendor/firmware/wcnss.b05 \
     vendor/lge/mako/proprietary/vendor/firmware/wcnss.mdt:system/vendor/firmware/wcnss.mdt \
-    vendor/lge/mako/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
     vendor/lge/mako/proprietary/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
     vendor/lge/mako/proprietary/vendor/lib/egl/libEGL_adreno.so:system/vendor/lib/egl/libEGL_adreno.so \
     vendor/lge/mako/proprietary/vendor/lib/egl/libGLESv1_CM_adreno.so:system/vendor/lib/egl/libGLESv1_CM_adreno.so \
@@ -185,7 +183,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/mako/proprietary/vendor/lib/libc2d30-a3xx.so:system/vendor/lib/libc2d30-a3xx.so \
     vendor/lge/mako/proprietary/vendor/lib/libc2d30.so:system/vendor/lib/libc2d30.so \
     vendor/lge/mako/proprietary/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
-    vendor/lge/mako/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
     vendor/lge/mako/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
     vendor/lge/mako/proprietary/vendor/lib/libgsl.so:system/vendor/lib/libgsl.so \
     vendor/lge/mako/proprietary/vendor/lib/libizat_core.so:system/vendor/lib/libizat_core.so \
@@ -196,8 +193,4 @@ PRODUCT_COPY_FILES += \
     vendor/lge/mako/proprietary/vendor/lib/librs_adreno.so:system/vendor/lib/librs_adreno.so \
     vendor/lge/mako/proprietary/vendor/lib/libRSDriver_adreno.so:system/vendor/lib/libRSDriver_adreno.so \
     vendor/lge/mako/proprietary/vendor/lib/libsc-a3xx.so:system/vendor/lib/libsc-a3xx.so \
-    vendor/lge/mako/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
-    vendor/lge/mako/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
-    vendor/lge/mako/proprietary/vendor/lib/libWVphoneAPI.so:system/vendor/lib/libWVphoneAPI.so \
-    vendor/lge/mako/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
     vendor/lge/mako/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so
